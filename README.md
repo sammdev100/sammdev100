@@ -3,6 +3,11 @@
 ##### - Apaixonado por 
 ![Samm Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=sammdev100&show_icons=true&bg_color=00000000)
 ### **Linguagens de programação [Programming languages ]**
+<div style="display inline_block"><br>
+  <img align="center" alt="img-py"  link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  
+          
+</div>
 
 ### Ferramentas [Tools]
 
