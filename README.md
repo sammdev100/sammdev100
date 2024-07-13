@@ -25,4 +25,4 @@ __________
 </div>
 
 ## **Áreas de interesse**
-Data Analysis | DevOps | Linux | Data Base | Computer network 
+Backend web development | Data Analysis | | Linux | Data Base | Internet of things | Computer network | Inovação tecnológica
